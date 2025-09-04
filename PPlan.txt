@@ -1,0 +1,16 @@
+✅ Ideal Workflow for You:
+
+Use Jupyter Notebook to explore the data, do EDA, build and evaluate your logistic regression model.
+
+Once your model is ready, switch to VS Code to:
+
+Export model (.pkl)
+
+Build your FastAPI prediction API
+
+Deploy the API
+
+steps for Virtual env:-
+
+1. python -m venv myenv
+2. myenv\Scripts\activate
